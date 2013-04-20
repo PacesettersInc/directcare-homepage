@@ -22,7 +22,7 @@ Route::get('/', function()
 			),
 
 			array(
-				'url' => 'http://inforservdd.com/login',
+				'url' => 'http://infoservdd.com/login',
 				'img' => 'phs.png',
 				'title' => 'Practical Health Systems'
 			),
