@@ -13,5 +13,49 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	return View::make( 'index', array(
+		'bookmarks' => array(
+			array(
+				'url' => 'http://pacesetterstn.com',
+				'img' => 'pacesetters.png',
+				'title' => 'Pacesetters, Inc. Home Page'
+			),
+
+			array(
+				'url' => 'http://inforservdd.com/login',
+				'img' => 'phs.png',
+				'title' => 'Practical Health Systems'
+			),
+
+			array(
+				'url' => 'http://webmd.com',
+				'img' => 'webmd.png',
+				'title' => 'WebMD'
+			),
+
+			array(
+				'url' => 'http://collegeofdirectsupport.com/tn',
+				'img' => 'cds.png',
+				'title' => 'College of Direct Support'
+			),
+
+			array(
+				'url' => 'http://mitc.pacesetterstn.com',
+				'img' => 'mitc.png',
+				'title' => 'My MITC'
+			),
+
+			array(
+				'url' => 'http://weather.com',
+				'img' => 'weather.png',
+				'title' => 'Weather'
+			),
+
+			array(
+				'url' => 'http://newschannel5.com',
+				'img' => 'newschannel5.png',
+				'title' => 'News Channel 5'
+			),
+		)
+	) );
 });
