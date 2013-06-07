@@ -25,7 +25,7 @@
     <div><a href="http://collegeofdirectsupport.com/tn"><img src="img/cds.png"><br>College of Direct Support</a></div>
     <div><a href="http://tndidd-pacesetters177.training.essentiallearning.com"><img src="img/essentiallearning.png"><br>Essential Learning</a></div>
     <div><a href="http://mitc.pacesetterstn.com"><img src="img/mitc.png"><br>My MITC</a></div>
-    <div><a href="http://weather.com"><img src="img/weather.png"><br>Weather</a></div>
+    <div><a href="http://wunderground.com"><img src="img/wunderground.png"><br>Weather</a></div>
     <div><a href="http://newschannel5.com"><img src="img/newschannel5.png"><br>News Channel 5</a></div>
 </body>
 </html>
